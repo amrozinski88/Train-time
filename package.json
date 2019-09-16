@@ -1,0 +1,22 @@
+{
+  "name": "train-time",
+  "version": "1.0.0",
+  "description": "Database train times",
+  "main": "logic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amrozinski88/Train-time.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amrozinski88/Train-time/issues"
+  },
+  "homepage": "https://github.com/amrozinski88/Train-time#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
